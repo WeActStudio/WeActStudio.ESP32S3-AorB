@@ -42,11 +42,4 @@ S3-Hardware Design Guidelines：https://www.espressif.com.cn/sites/default/files
 ESP-IDF:HTTPS://GITHUB.COM/ESPRESSIF/ESP-IDF
 </div>
 
-<div>
-ESP32-C6 get-started:
-https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/
-</div>
-
- [ESP32-C6 Wi-Fi 6 & BLE 5 & Thread/Zigbee SoC | 乐鑫科技 (espressif.com)](https://www.espressif.com/zh-hans/products/socs/esp32-C6)
-
 #### IF YOU HAVE ANY QUESTIONS, YOU CAN CONTACT WeAct Studio.
