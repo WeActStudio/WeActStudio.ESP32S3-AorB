@@ -42,4 +42,6 @@ S3-Hardware Design Guidelines：https://www.espressif.com.cn/sites/default/files
 ESP-IDF:HTTPS://GITHUB.COM/ESPRESSIF/ESP-IDF
 </div>
 
+Pin2Pin Development Board: https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html
+
 #### IF YOU HAVE ANY QUESTIONS, YOU CAN CONTACT WeAct Studio.
